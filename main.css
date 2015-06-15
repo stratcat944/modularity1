@@ -1,0 +1,11 @@
+/* ADD YOUR STYLES HERE */
+table, tr, td {
+	border-color:lightgrey;
+	border-left:none;
+	border-right:none;
+	padding-right:100px;
+	border-top:none;
+}
+.nobottomborder {
+	border-bottom:hidden;
+}
